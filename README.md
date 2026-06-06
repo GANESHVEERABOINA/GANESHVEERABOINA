@@ -1,28 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ganesh 👋
 
-<!--
-**GANESHVEERABOINA/GANESHVEERABOINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring DevOps Engineer
 
-Here are some ideas to get you start# Hi, I'm Ganesh 👋
+💻 Linux | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🌍 Terraform | ⚙️ Jenkins | 🔄 CI/CD | 🌿 Git | 🗄️ PostgreSQL
 
-### Aspiring DevOps Engineer
+Passionate about building scalable, automated, and cloud-native solutions while continuously strengthening my DevOps, Cloud, and Infrastructure Engineering skills.
 
-Linux | AWS | Docker | Kubernetes | Jenkins | Terraform | CI/CD | Automation
+🔗 **LinkedIn:** https://www.linkedin.com/in/ganesh-veeraboina/
 
-Passionate about building real-world DevOps solutions through hands-on projects and continuous learning.
+## 🎯 Current Focus
 
-🔗 LinkedIn: https://www.linkedin.com/in/ganesh-veeraboina/
+* 🐧 Linux System Administration
+* ☁️ AWS Cloud Services
+* 🐳 Docker & Containerization
+* ☸️ Kubernetes & Container Orchestration
+* 🌍 Infrastructure as Code (Terraform)
+* ⚙️ CI/CD Automation (Jenkins)
+* 🌿 Git & Version Control
+* 📊 Monitoring & Observability
+* 🔐 DevOps Best Practices
 
-Currently focused on:
+## 📚 Learning Journey
 
-* Cloud Infrastructure (AWS)
-* Containerization (Docker)
-* Container Orchestration (Kubernetes)
-* Infrastructure as Code (Terraform)
-* CI/CD Pipelines (Jenkins)
-* Linux Administration
-* Automation & Monitoring
+Currently focused on gaining hands-on experience with modern DevOps tools, automation practices, cloud technologies, and production-ready infrastructure workflows.
 
-🚀 Creator of **DevOps.Hub** — a 3-tier application built for DevOps learning, deployment practice, automation, and cloud-native workflows.
+## 🎯 Goals
 
-*"Learning by building, automating, and deploying."*
+* ✅ Become a Production-Ready DevOps Engineer
+* ☁️ Master Cloud-Native Technologies
+* 🏗️ Build Real-World Infrastructure Solutions
+* 🤝 Contribute to Open Source Projects
+* 📈 Continuously Learn and Improve
+
+> 💡 Learning by building, automating, and solving real-world challenges.
