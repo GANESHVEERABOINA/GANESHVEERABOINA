@@ -1,79 +1,72 @@
 <div align="center">
-
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ganesh+Veeraboina+👋;AWS+DevOps+Engineer;Cloud+Infrastructure+Enthusiast" alt="Typing SVG" />
-
-<p align="center">
-  <em>Passionate about building scalable, automated, and cloud-native solutions while continuously strengthening my DevOps, Cloud, and Infrastructure Engineering skills.</em>
-</p>
-
-<!-- Social & Portfolio Badges -->
-<a href="https://ganeshveeraboina.github.io/Ganesh-Portfolio-website/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/ganesh-veeraboina/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:ganeshveeraboina.pro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
+  <!-- Modern Dynamic Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Ganesh%20Veeraboina&fontSize=60&fontAlignY=38&desc=AWS%20DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=22&fontColor=ffffff" width="100%"/>
 </div>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently focused on **AWS, Kubernetes, Terraform, and CI/CD Pipelines**.
-- 🌱 I’m constantly learning and implementing **Cloud-Native Technologies & DevSecOps**.
-- 👯 I’m looking to collaborate on **Cloud Infrastructure Automations**.
-- 💬 Ask me about **Linux, Docker, Jenkins, and AWS Deployments**.
-- ⚡ Fun fact: *I believe the best way to learn is by building and breaking things.*
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
 <div align="center">
-
-**Cloud & Operating Systems**<br>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-<br><br>**Containerization & Orchestration**<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-<br><br>**Infrastructure as Code & Config Management**<br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
-
-<br><br>**CI/CD, VCS & Automation**<br>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br><br>**Scripting, Monitoring & Build Tools**<br>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANESHVEERABOINA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ganesh's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHVEERABOINA&theme=tokyonight&hide_border=true&background=0D1117" alt="Ganesh's GitHub Streak" />
+  <a href="https://ganeshveeraboina.github.io/Ganesh-Portfolio-website/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-121212?style=for-the-badge&logo=Web&logoColor=3B82F6" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ganesh-veeraboina/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ganeshveeraboina.pro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Email" />
+  </a>
 </div>
 
 <br>
+
+<!-- Glassy/Terminal Style About Me -->
+> ### 💻 `guest@ganesh-devops:~ $ cat about_me.md`
+>
+> - 🔭 Currently architecting **Scalable Cloud Infrastructure & Automation**
+> - 🌱 Mastering **Kubernetes, DevSecOps, and Terraform**
+> - ☁️ Passionate about bridging the gap between Development & Operations
+> - 💬 Ask me about **AWS, Docker, Jenkins, & Linux Pipelines**
+> - ⚡ Fun fact: *I believe the best way to learn is by building and breaking things.*
+
+<br>
+
+<h3 align="center">⚡ Tech Stack & Arsenal</h3>
+
+<div align="center">
+  <p><b>Cloud & OS</b></p>
+  <img src="https://img.shields.io/badge/AWS-121212?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Ubuntu-121212?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+  
+  <p><b>Containerization & Orchestration</b></p>
+  <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-121212?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  
+  <p><b>Infrastructure as Code & Config</b></p>
+  <img src="https://img.shields.io/badge/Terraform-121212?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
+  <img src="https://img.shields.io/badge/Ansible-121212?style=for-the-badge&logo=ansible&logoColor=white" />
+  
+  <p><b>CI/CD, VCS & Automation</b></p>
+  <img src="https://img.shields.io/badge/Jenkins-121212?style=for-the-badge&logo=jenkins&logoColor=D24939" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-121212?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032" />
+  
+  <p><b>Scripting, Monitoring & Build Tools</b></p>
+  <img src="https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Prometheus-121212?style=for-the-badge&logo=prometheus&logoColor=E6522C" />
+  <img src="https://img.shields.io/badge/Grafana-121212?style=for-the-badge&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/Maven-121212?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
+</div>
+
+<br>
+
+<h3 align="center">📊 GitHub Metrics</h3>
+
+<div align="center">
+  <!-- Added theme=transparent to create the Seamless Glassmorphism look! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GANESHVEERABOINA&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=a3a3a3" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHVEERABOINA&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=a3a3a3" height="165" alt="GitHub Streak" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer"/>
 </div>
