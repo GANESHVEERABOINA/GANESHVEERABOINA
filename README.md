@@ -4,6 +4,11 @@
 </div>
 
 <div align="center">
+  <!-- 🔥 FIXED: New Demolab Server for Typing SVG 🔥 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ganesh+Veeraboina+👋;AWS+DevOps+Engineer;Cloud+Infrastructure+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <a href="https://ganeshveeraboina.github.io/Ganesh-Portfolio-website/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-121212?style=for-the-badge&logo=Web&logoColor=3B82F6" alt="Portfolio" />
   </a>
@@ -62,9 +67,10 @@
 <h3 align="center">📊 GitHub Metrics</h3>
 
 <div align="center">
-  <!-- Added theme=transparent to create the Seamless Glassmorphism look! -->
+  <!-- 🔥 FIXED: Vercel server for normal stats 🔥 -->
   <img src="https://github-readme-stats.vercel.app/api?username=GANESHVEERABOINA&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=a3a3a3" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHVEERABOINA&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=a3a3a3" height="165" alt="GitHub Streak" />
+  <!-- 🔥 FIXED: New Demolab Server for Streak stats 🔥 -->
+  <img src="https://streak-stats.demolab.com/?user=GANESHVEERABOINA&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=a3a3a3" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
