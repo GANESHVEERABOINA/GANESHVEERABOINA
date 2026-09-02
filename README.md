@@ -1,7 +1,7 @@
 # ☁️ Ganesh Veeraboina
 **AWS DevOps & Cloud Infrastructure Engineer**
 
-[Portfolio](https://ganeshveeraboina.github.io/Ganesh-Portfolio-website/) • [LinkedIn](https://www.linkedin.com/in/ganesh-veeraboina/) • [Email](mailto:ganeshveeraboina.pro@gmail.com)
+<kbd><a href="https://ganeshveeraboina.github.io/Ganesh-Portfolio-website/">🌐 Portfolio</a></kbd> &nbsp; <kbd><a href="https://www.linkedin.com/in/ganesh-veeraboina/">💼 LinkedIn</a></kbd> &nbsp; <kbd><a href="mailto:ganeshveeraboina.pro@gmail.com">📧 Email</a></kbd>
 
 ---
 
@@ -17,10 +17,10 @@
 
 ### ⚡ Tech Stack & Arsenal
 
-* **Cloud & OS:** AWS, Linux, Ubuntu
-* **Containerization:** Docker, Kubernetes
-* **IaC & Config:** Terraform, Ansible
-* **CI/CD & Automation:** Jenkins, GitHub Actions, Git
-* **Scripting & Monitoring:** Bash, Python, Prometheus, Grafana
+* **Cloud & OS:** &nbsp; <kbd>AWS</kbd> <kbd>Linux</kbd> <kbd>Ubuntu</kbd>
+* **Containerization:** &nbsp; <kbd>Docker</kbd> <kbd>Kubernetes</kbd>
+* **IaC & Config:** &nbsp; <kbd>Terraform</kbd> <kbd>Ansible</kbd>
+* **CI/CD & Automation:** &nbsp; <kbd>Jenkins</kbd> <kbd>GitHub Actions</kbd> <kbd>Git</kbd>
+* **Scripting & Monitoring:** &nbsp; <kbd>Bash</kbd> <kbd>Python</kbd> <kbd>Prometheus</kbd> <kbd>Grafana</kbd>
 
 ---
