@@ -74,52 +74,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### ☁️ AWS Infrastructure Automation
-
-**Terraform • Ansible • Jenkins • AWS EC2 • Nginx**
-
-Automated AWS infrastructure provisioning and EC2 server configuration using Infrastructure as Code and configuration management.
-
-**Key Highlights:**
-
-- 🏗️ Provisioned AWS EC2 infrastructure using Terraform
-- 🔐 Configured EC2 security groups and key-based access
-- 📤 Retrieved EC2 public IP using Terraform outputs
-- ⚙️ Automated server configuration using Ansible
-- 🌐 Installed, started and enabled Nginx automatically
-- 🔄 Automated the deployment workflow using Jenkins
-
-🔗 **GitHub:**  
-https://github.com/GANESHVEERABOINA/AWS-Infrastructure-Automation
-
----
-
-### 🔄 DevOps CI/CD Pipeline
-
-**GitHub • Jenkins • Maven • Docker • Apache Tomcat**
-
-Built a complete CI/CD pipeline for a Java application to automate build, testing, packaging, containerization and deployment.
-
-**Pipeline Flow:**
-
-GitHub → Jenkins → Maven → Test → Docker Image → Docker Container → Tomcat → Application
-
-**Key Highlights:**
-
-- 🔗 Integrated GitHub with Jenkins
-- 🔨 Built Java application using Maven
-- 🧪 Automated application testing
-- 📦 Created Docker images
-- 🐳 Deployed application inside Docker containers
-- 🚀 Ran the application on Apache Tomcat
-
-🔗 **GitHub:**  
-https://github.com/GANESHVEERABOINA/devops-cicd-project
-
----
-
 ## 🔧 DevOps Workflow
 
 <p align="center">
@@ -133,6 +87,8 @@ https://github.com/GANESHVEERABOINA/devops-cicd-project
 <b>SonarQube</b>
 &nbsp; → &nbsp;
 <b>Docker</b>
+&nbsp; → &nbsp;
+<b>Trivy</b>
 &nbsp; → &nbsp;
 <b>Kubernetes / AWS</b>
 
