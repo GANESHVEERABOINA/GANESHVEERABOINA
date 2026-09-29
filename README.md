@@ -172,20 +172,20 @@ My goal is to work on real-world infrastructure and automation problems while co
 
 ---
 
+---
+
 ## 🤝 Let's Connect
 
 <p align="left">
-  🌐 <a href="https://ganeshveeraboina.github.io/Ganesh-Portfolio-website/">Portfolio</a>
-  <br><br>
-  💼 <a href="https://www.linkedin.com/in/ganesh-veeraboina/">LinkedIn</a>
-  <br><br>
-  📧 <a href="mailto:ganeshveeraboina.pro@gmail.com">ganeshveeraboina.pro@gmail.com</a>
+  <a href="https://ganeshveeraboina.github.io/Ganesh-Portfolio-website/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ganesh-veeraboina/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ganeshveeraboina.pro@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
----
-
-<p align="center">
 
 ### ⚡ Build. Automate. Deploy. Learn.
-
-</p>
